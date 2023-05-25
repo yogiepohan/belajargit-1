@@ -1,3 +1,4 @@
 <?php
-    echo "Halo Bujang!"
+    echo "Halo Bujang!";
+    echo "Halo Kontol";
 ?>
